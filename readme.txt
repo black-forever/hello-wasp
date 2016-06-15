@@ -4,13 +4,12 @@ Donate link: http://black-forever.de
 Tags: W.A.S.P., WASP, Hello Dolly
 Requires at least: 4.0
 Tested up to: 4.5.2
-Stable tag: 4.5
+Stable tag: 0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This Plugin is just a Fork to the WordPress' Famous <cite>Hello Dolly</cite> Plugin.
-Except when activated you will randomly see a quote from a W.A.S.P. song in the upper right of your admin screen on every page.
-A plugin to tribute the incredible voice of Blackie Lawless - singer and songwriter from the American Heavy Metal band W.A.S.P.
+Except when activated you will randomly see a quote from a W.A.S.P. song.
 
 == Description ==
 
@@ -20,7 +19,7 @@ A plugin to tribute the incredible voice of Blackie Lawless - singer and songwri
 
 == Installation ==
 
-1. Unzip 'hello_wasp.zip' to the '/wp-content/plugins/' directory or upload it directly on 'Add New Plugin' in "Plugins" menu
+1. Unzip 'hello-wasp.zip' to the '/wp-content/plugins/' directory or upload it directly on 'Add New Plugin' in "Plugins" menu
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Hear the Voice. :)
 
@@ -29,4 +28,4 @@ A plugin to tribute the incredible voice of Blackie Lawless - singer and songwri
 == Changelog ==
 
 = 0.1 =
-*New Quotes Added.
+*Initial release.
