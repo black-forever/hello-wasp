@@ -9,7 +9,7 @@
  * Description:     Hello Blackie is just a Fork of Hello Dolly - with random quotes from the American band W.A.S.P. to tribute the incredible voice of Blackie Lawless.
  * Author:          Markus Pezold <markus.pezold@black-forever.de>
  * Version:         0.1
- * Min WP Version:  4.0
+ * Min WP Version:  3.0
  * Author URI:      http://black-forever.de
  * License:         GPLv2 or later
  *
